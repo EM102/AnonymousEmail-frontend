@@ -1,0 +1,78 @@
+.SignUp {
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  margin-top: 2%;
+}
+
+.Input2 {
+  width: 15%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  font-size: 15px;
+  margin-top: 0.5%;
+}
+
+.textArea {
+  width: 50%;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  font-size: 15px;
+  margin-top: 0.5%;
+}
+
+.sendButton {
+  width: 30%;
+  padding-top: 0.2%;
+  padding-bottom: 0.2%;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #1557e4;
+  font-size: 25px;
+  margin-top: 3%;
+}
+
+.sendButton:hover {
+  cursor: pointer;
+}
+
+.sendButton > p {
+  color: #ffffff;
+}
+
+.errorEmail {
+  color: red;
+}
+
+.logoutButton {
+  width: 20%;
+  padding-top: 0.2%;
+  padding-bottom: 0.2%;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #dcdfe5;
+  font-size: 20px;
+}
+
+.logoutButton:hover {
+  cursor: pointer;
+}
+
+.logoutButton > text {
+  color: #2b3c63;
+}
+
+.AlertEmail {
+  width: 31.7%;
+  text-align: "center";
+  align-items: "center";
+  justify-content: "center";
+  margin-left: 34%;
+}
